@@ -1,0 +1,74 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans Lao',sans-serif;
+}
+header {
+    background-color:#559dfa;
+    padding: 30px;
+    
+}
+.menu-item{
+    color: #fff;
+    display: inline-block;
+    padding: 16px;
+    text-decoration: none;
+}
+.brand{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.containner{
+    max-width: 900px;
+    min-width: 600px;
+    margin: auto;
+}
+.box{
+    background-color: #1161cad3;
+    margin: 300px 300px 300px 300px;
+    padding: 10px;
+    text-align: center;
+    border: solid 2px rgb(141,140,140);
+    box-shadow: 8px 4px 8px 2px rgb(52, 53, 53);
+}
+.image{
+    width: 100%;
+}
+.aaa{
+    font-family: Phetsarath OT;
+    color: rgb(172, 13, 13);
+}
+.button{
+    color: #ffffff;
+    background-color: seagreen;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Phetsarath OT;
+}
+footer{
+    color: #fff;
+    background-color: #064699;
+    padding: 30px;
+    text-align: center;
+}
+.box1{
+    background-color: #1161cad3;
+    margin: 300px 300px 300px 300px;
+    padding: 10px;
+    text-align: left;
+    border: solid 2px rgb(141,140,140);
+    box-shadow: 8px 4px 8px 2px rgb(52, 53, 53);
+}
+.button1{
+    color: #ffffff;
+    background-color: rgb(143, 43, 43);
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Phetsarath OT;
+}
